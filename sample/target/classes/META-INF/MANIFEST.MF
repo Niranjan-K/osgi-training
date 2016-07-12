@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1468236785444
+Build-Jdk: 1.8.0_20
+Built-By: aruna
+Bundle-Activator: org.sample.Activator
+Bundle-ManifestVersion: 2
+Bundle-Name: sample
+Bundle-SymbolicName: sample
+Bundle-Vendor: WSO2 Inc
+Bundle-Version: 1.0.0
+Created-By: Apache Maven Bundle Plugin
+Export-Package: org.sample;uses:="org.osgi.framework";version="1.0.0"
+Import-Package: org.osgi.framework;version="[1.7,2)"
+Tool: Bnd-2.1.0.20130426-122213

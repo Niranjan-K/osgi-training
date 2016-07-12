@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <option name="DEFAULT_COMPILER" value="Javac" />
+    <resourceExtensions />
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="false">
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="library-consumer" />
+        <module name="sample" />
+        <module name="sample-api" />
+        <module name="sample-bundle" />
+        <module name="sample-impl" />
+        <module name="sample-impl-2" />
+        <module name="sample-impl2" />
+        <module name="sample-library1" />
+        <module name="sample-library2" />
+        <module name="service-component" />
+        <module name="service-listener" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="class-not-found" target="1.5" />
+      <module name="hello-sample" target="1.5" />
+      <module name="library-consumer" target="1.5" />
+      <module name="NoSuchMethodError" target="1.5" />
+      <module name="sample" target="1.5" />
+      <module name="sample-api" target="1.5" />
+      <module name="sample-bundle" target="1.5" />
+      <module name="sample-impl" target="1.5" />
+      <module name="sample-impl-2" target="1.5" />
+      <module name="sample-impl2" target="1.5" />
+      <module name="sample-library1" target="1.5" />
+      <module name="sample-library2" target="1.5" />
+      <module name="service-component" target="1.5" />
+      <module name="service-listener" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

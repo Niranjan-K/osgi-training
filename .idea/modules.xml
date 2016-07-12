@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/NoSuchMethodError/NoSuchMethodError.iml" filepath="$PROJECT_DIR$/NoSuchMethodError/NoSuchMethodError.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-sample.iml" filepath="$PROJECT_DIR$/hello-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NoSuchMethodError/library-consumer/library-consumer.iml" filepath="$PROJECT_DIR$/NoSuchMethodError/library-consumer/library-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample/sample.iml" filepath="$PROJECT_DIR$/sample/sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-api/sample-api.iml" filepath="$PROJECT_DIR$/sample-api/sample-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-bundle/sample-bundle.iml" filepath="$PROJECT_DIR$/sample-bundle/sample-bundle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-impl/sample-impl.iml" filepath="$PROJECT_DIR$/sample-impl/sample-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-impl2/sample-impl2.iml" filepath="$PROJECT_DIR$/sample-impl2/sample-impl2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NoSuchMethodError/sample-library1/sample-library1.iml" filepath="$PROJECT_DIR$/NoSuchMethodError/sample-library1/sample-library1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NoSuchMethodError/sample-library2/sample-library2.iml" filepath="$PROJECT_DIR$/NoSuchMethodError/sample-library2/sample-library2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-component/service-component.iml" filepath="$PROJECT_DIR$/service-component/service-component.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-listener/service-listener.iml" filepath="$PROJECT_DIR$/service-listener/service-listener.iml" />
+    </modules>
+  </component>
+</project>
