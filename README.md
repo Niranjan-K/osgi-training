@@ -1,4 +1,4 @@
-osgi-sample
+osgi-training
 ===========
 
-osgi samples
+OSGi Training Materials
