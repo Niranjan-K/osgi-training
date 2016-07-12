@@ -26,7 +26,6 @@ import org.osgi.service.component.ComponentContext;
  * @scr.reference name="org.sample.api.Hello"
  * interface="org.sample.api.Hello"
  * cardinality="1..1" policy="dynamic" bind="setHelloService"
- * target="(name=impl2)"
  * unbind="unsetHelloService"
  */
 public class SampleServiceComponent {
